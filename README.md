@@ -4,6 +4,16 @@
 To simulate a Full wave Bridge rectifier circuit and compare the outputs with and without filter:
 ## CIRCUIT DIAGRAM:
 
+**Full wave Bridge Rectifier without filter**
+
+<img width="929" height="492" alt="image" src="https://github.com/user-attachments/assets/dbbf120c-2225-4fde-957f-fa6d12766bc8" />
+
+
+**Full wave Bridge Rectifier with filter**
+
+<img width="780" height="545" alt="image" src="https://github.com/user-attachments/assets/f34772fb-9b26-4d7b-969c-b237152f7c32" />
+
+
 ## STEPS FOR SIMULATION:
 1.	Open the Ltspice software
 2.	
@@ -45,4 +55,16 @@ To simulate a Full wave Bridge rectifier circuit and compare the outputs with an
 
 ## OUTPUT:
 
+**Full wave Bridge Rectifier without filter**
+
+![Image](https://github.com/user-attachments/assets/ff1f3ef9-5573-4917-98e0-7ee8b3eb2944)
+
+
+**Full wave Bridge Rectifier with filter**
+
+![Image](https://github.com/user-attachments/assets/7aa8374b-6d08-4870-a8a7-cda00ec8c2be)
+
+
 ## RESULT:
+
+The simulation was done in LTspice and the output waveform is obtained.
